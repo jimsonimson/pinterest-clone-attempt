@@ -1,0 +1,6 @@
+<h1>Boards <small></small></h1>
+
+<div class="" ng-repeat="p in vm.pinboards">
+    <h3><a ng-href="/boards/{{p._id}}">{{p.title}}</a></h3>
+    <a href="/changePinboard/{{p._id}}">Change Pinboard Name</a>
+</div>

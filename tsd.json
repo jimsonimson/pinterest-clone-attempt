@@ -1,0 +1,66 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "serve-static/serve-static.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "mime/mime.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "express/express.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "mongoose/mongoose.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "node/node.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "angularjs/angular.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "angularjs/angular-resource.d.ts": {
+      "commit": "984a41af67d76b5134e0d4991a30f813dfb8561f"
+    },
+    "angularjs/angular-route.d.ts": {
+      "commit": "984a41af67d76b5134e0d4991a30f813dfb8561f"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "cookie-parser/cookie-parser.d.ts": {
+      "commit": "f85b83dbbffbc0d490b232b34f0664b424e8ce33"
+    },
+    "morgan/morgan.d.ts": {
+      "commit": "f85b83dbbffbc0d490b232b34f0664b424e8ce33"
+    },
+    "serve-favicon/serve-favicon.d.ts": {
+      "commit": "f85b83dbbffbc0d490b232b34f0664b424e8ce33"
+    },
+    "express-unless/express-unless.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "passport-local/passport-local.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "express-jwt/express-jwt.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "jsonwebtoken/jsonwebtoken.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "passport/passport.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    },
+    "angular-ui-bootstrap/angular-ui-bootstrap.d.ts": {
+      "commit": "2cad4a3cff770c37b40496188c246b1a60e87e2d"
+    }
+  }
+}
